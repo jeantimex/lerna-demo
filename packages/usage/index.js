@@ -1,3 +1,3 @@
-var alpha = require('alpha');
-var beta = require('beta');
+var alpha = require('lerna-demo-alpha');
+var beta = require('lerna-demo-beta');
 console.log(alpha + " " + beta);
