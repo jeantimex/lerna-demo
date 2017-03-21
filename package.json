@@ -1,0 +1,7 @@
+{
+  "name": "lerna-demo",
+  "version": "1.0.0",
+  "devDependencies": {
+    "lerna": "2.0.0-beta.38"
+  }
+}
